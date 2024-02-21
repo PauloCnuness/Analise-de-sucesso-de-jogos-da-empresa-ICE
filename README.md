@@ -35,7 +35,8 @@ Defini o valor do limiar alfa e expliquei como formulei as hipóteses e os crit�
 
 ### Passo 6: Conclusão Geral
 Escrevi uma conclusão geral com base nos resultados obtidos ao longo do projeto.
-Descrição dos Dados
 
+
+#### Descrição dos Dados
 
 Os conjuntos de dados fornecidos incluíam informações sobre os jogos, como nome, plataforma, ano de lançamento, gênero, vendas em diferentes regiões, pontuação crítica, pontuação do usuário e classificação ESRB. Os dados abrangiam informações desde 2016, mas podiam estar incompletos.
