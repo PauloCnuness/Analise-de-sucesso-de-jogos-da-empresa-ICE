@@ -29,7 +29,8 @@ Explorei como as avaliações de usuários e profissionais afetam as vendas de u
 Determinei as cinco principais plataformas e gêneros em cada região (América do Norte, Europa e Japão).
 Expliquei as variações nas quotas de mercado e gêneros entre regiões.
 Analisei se as classificações ESRB afetam as vendas em regiões individuais.
-Passo 5: Teste de Hipóteses
+
+### Passo 5: Teste de Hipóteses
 Testei as hipóteses sobre as classificações médias de usuários das plataformas Xbox One e PC e dos gêneros Action e Sports.
 Defini o valor do limiar alfa e expliquei como formulei as hipóteses e os critérios utilizados para testá-las.
 
